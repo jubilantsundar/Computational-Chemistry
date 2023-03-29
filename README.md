@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jubilantsundar
 - 👀 I’m interested in writing simple compchem utility scripts that help in day-to-day works.
-- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on CompChem script writing
 - 📫 How to reach me jubilantsundar@gmail.com
 

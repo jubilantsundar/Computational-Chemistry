@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jubilantsundar
 - I’m interested in writing simple compchem utility scripts that help in day-to-day works.
-- Feel free to download and use the scripts.
+- ***Feel free to download and use the scripts.***
 - Reach me at jubilantsundar@gmail.com for questions.
 
 # List of standalone scripts and their uses
